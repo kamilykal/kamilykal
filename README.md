@@ -55,17 +55,7 @@
 </div>
 </div>
 <hr>
-### 🐍 Katkı Yılanı (Contribution Snake)
 
-<div align="center">
-  <picture>
-    <source srcset="https://raw.githubusercontent.com/kamilykal/kamilykal/output/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)">
-    <source srcset="https://raw.githubusercontent.com/kamilykal/kamilykal/output/github-contribution-grid-snake.svg" media="(prefers-color-scheme: light)">
-    <img src="https://raw.githubusercontent.com/kamilykal/kamilykal/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation">
-  </picture>
-</div>
-
-<hr>
 
 ### 🔗 Benimle İletişime Geç (Risk senin)
 
