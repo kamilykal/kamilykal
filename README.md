@@ -22,7 +22,7 @@
 <div>
   <img src="https://media.tenor.com/GGrsyQs02BsAAAAM/fujikun-jett.gif" height="200" align="right">
   <ul>
-    <li>🚀 Şu an üzerinde çalıştığım: <strong>[Proje Adı Buraya]</strong></li>
+    <li>🚀 Şu an üzerinde çalıştığım: <strong>XANTİX</strong></li>
     <li>🧠 Şu an öğrenmekte olduğum: <strong>Three.js & Yapay Zeka</strong></li>
     <li>💬 Hakkımda sorabilirsin: <strong>React, Node.js ya da Valorant meta</strong></li>
     <li>⚡ İlginç bilgi: <strong>Kodlarımda bug yoktur, sadece "beklenmedik özellikler" vardır.</strong></li>
