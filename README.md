@@ -55,8 +55,12 @@
 </div>
 </div>
 <hr>
-
-
+<div>
+ <div>
+<img src="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph-dark.svg" />
+</div>
+</div>
+<hr>
 ### 🔗 Benimle İletişime Geç (Risk senin)
 
 
